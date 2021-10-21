@@ -1,3 +1,12 @@
+*****
+
+<<<<< I AM NOT THE CREATOR OF THIS PROJECT >>>>>
+
+I starred this respository on the original creator's page ( CCC ) and evidently somehow saved it as a public repo unlinked to the original. Literally all credit goes to the original creator(s). I just saved this repo in hopes of studying it and learning.
+
+*****
+
+
 # [New Empty Python Project Base](https://github.com/Neuraxio/New-Empty-Python-Project-Base)
 
 > This is just what you need to start a new Python project.
